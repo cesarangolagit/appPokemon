@@ -54,7 +54,7 @@ Antes de clonar el repo, asegúrate de tener instalado:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL-DEL-REPO>
+git clone https://github.com/cesarangolagit/appPokemon.git
 cd appPokemon
 ```
 
