@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Pokédex",
+    "slug": "appPokemon",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-pokemon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#EF5350"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#EF5350",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "statusBar": {
+        "backgroundColor": "#EF5350",
+        "translucent": false,
+        "barStyle": "light-content"
+      },
+      "navigationBar": {
+        "backgroundColor": "#FFFFFF",
+        "barStyle": "dark-content"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
